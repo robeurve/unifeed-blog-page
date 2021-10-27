@@ -22,7 +22,7 @@ Esta es una solución al reto [Unifeed blog page de Codewell](https://www.codewe
 ### Links
 
 - Solucion URL: [Github](https://github.com/robeurve/unifeed-blog-page)
-- Live Site URL: [Github Pages](https://robeurve.github.io/fiber-landing-page/)
+- Live Site URL: [Github Pages](https://robeurve.github.io/unifeed-blog-page/)
 
 ## Mi Proceso
 
